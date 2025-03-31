@@ -139,7 +139,7 @@ DeviceNetworkEvents
 - **Event:** Additional TOR network connections were established, indicating ongoing activity by user "insiderthreat5" through the TOR browser.
 - **Action:** Multiple successful connections detected.
 
-### 6. File Creation - TOR Shopping List
+### 6. File Creation - Shopping List
 
 - **Timestamp:** `2025-03-29T08:56:12.9578254Z`
 - **Event:** The user "insiderthreat5" created a file named `Shopping List.txt` on the desktop, potentially indicating a list or notes related to their TOR browser activities.
